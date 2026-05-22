@@ -126,33 +126,5 @@ MIT License
 Feel free to use, modify, and learn from this project.
 
 ---
-
-## 🌐 Follow & Subscribe
-
-| Platform  | Link |
-|---------|------|
-| Twitter  | https://twitter.com/einzigartigetec/ |
-| Facebook | https://www.facebook.com/einzigartige/ |
-| LinkedIn | https://www.linkedin.com/company/einzigartige/ |
-| YouTube  | https://www.youtube.com/@einzigartige_/ |
-| Website  | http://einzigartige.in/ |
-
----
-
-## 📊 Live YouTube Statistics
-
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjm1vLu6YLoLeXpt8aT6BWg?style=social)
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCjm1vLu6YLoLeXpt8aT6BWg?style=social)
-
-👉 **Subscribe here:** https://www.youtube.com/@einzigartige_/
-
----
-
-## 👤 Author
-
-**Einzigartige - Web & App Development Company**  
-Website: http://einzigartige.in/
-
----
-
+ 
 ⭐ If you like this project, consider giving it a star!
